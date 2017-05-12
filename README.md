@@ -1,5 +1,5 @@
-# Ranking-U.S.-Colleges 
-An Exploration of Value Added Methodology
+# An-Exploration-of-Value-Added-Methodology
+Ranking-U.S.-Colleges 
 
 ## Problem Description
 Many commentators have marked the increasing importance of college to an individual's future earnings. Yet, the cost of attending college has never been higher, and people continue to lack information they can use to compare different institutions. Consequently, the importance of ranking the best colleges cannot be understated. This analysis ranks an extensive list of U.S. colleges using a value-added approach very similar to that used by [the Economist](http://www.economist.com/blogs/graphicdetail/2015/10/value-university) and [the Brookings Institute](https://www.brookings.edu/wp-content/uploads/2015/04/BMPP_CollegeValueAdded.pdf). This analysis provides insight into institutional factors of greatest value, measured by median earnings, to students. 
