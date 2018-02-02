@@ -6,3 +6,5 @@ Many commentators have marked the increasing importance of college to an individ
 
 ## Dataset
 The dataset is from the [College Scorecard data webpage](https://collegescorecard.ed.gov/data/). The College Scorecard project was created to allow students and families to compare how well different colleges are preparing their students to be successful. Thus, it has data on the performance of institutions that receive federal aid and the outcomes of their students. The data is provided through "...federal reporting from institutions, data on federal financial aid, and tax information"[Data Documentation for College Scorecard](https://www.brookings.edu/wp-content/uploads/2015/04/BMPP_CollegeValueAdded.pdf). 
+
+Please note my work on this is still ongoing. Thank you.
